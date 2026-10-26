@@ -34,7 +34,7 @@ Documentar la configuración y administración de los servicios de correo electr
 
 ## Autor
 
-Cristian Alexander Gareca
+Error 404
 
 ## Nota
 
